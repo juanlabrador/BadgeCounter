@@ -1,5 +1,6 @@
 # BadgeCounter  [ ![Download](https://api.bintray.com/packages/juanlabrador/maven/BadgeCounter/images/download.svg) ](https://bintray.com/juanlabrador/maven/BadgeCounter/_latestVersion)
 A simple library for show a badge counter in action menu.
+
 ![BadgeCounter](screen/red.png)
 ![BadgeCounter](screen/blue.png)
 ![BadgeCounter](screen/gray.png)
