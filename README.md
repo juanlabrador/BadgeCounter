@@ -1,18 +1,17 @@
 # BadgeCounter  [ ![Download](https://api.bintray.com/packages/juanlabrador/maven/BadgeCounter/images/download.svg) ](https://bintray.com/juanlabrador/maven/BadgeCounter/_latestVersion)
 A simple library for show a badge counter in action menu, based https://github.com/mikepenz/Android-ActionItemBadge
-
 ![BadgeCounter](screen/red.png)
 ![BadgeCounter](screen/blue.png)
 ![BadgeCounter](screen/gray.png)
-
 How to use
 ----------
 ```groovy
 compile 'com.github.juanlabrador:badgecounter:1.0@aar'
 ```
-
 menu.xml
 --------
+Add in your menu.xml, app:actionLayout="@layout/badge_counter" param.
+
 ```xml
   <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
