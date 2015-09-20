@@ -7,7 +7,7 @@ A simple library for show a badge counter in action menu.
 How to use
 ----------
 ```groovy
-compile 'com.github.juanlabrador:badgecounter:1.0@aar'
+compile 'com.github.juanlabrador:badgecounter:1.0.1@aar'
 ```
 menu.xml
 --------
@@ -70,13 +70,16 @@ Activity
 ```
 
 You can set an icon drawable or icon res, textColor just in white (for now), and you change color to badge (Defaul is RED).
+Remember the specific sizes for these types of icons, you can use <https://romannurik.github.io/AndroidAssetStudio/icons-generic.html>
 
 Log
 ----
+v1.0.1
+- Adjust in xml
 v1.0
 - TextColor in badge is just white
 - Change background badge color
-- setIcon with drawable or resourse
+- setIcon with drawable or resource
 
 Developed by
 ------------
