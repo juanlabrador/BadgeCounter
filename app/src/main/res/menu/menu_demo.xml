@@ -8,6 +8,19 @@
         app:showAsAction="never" />
 
     <item
+        android:id="@+id/send"
+        android:title="Send"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_send"/>
+
+    <item
+        android:id="@+id/camera"
+        android:title="Camera"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_camera"/>
+
+
+    <item
         android:id="@+id/notification"
         android:title="Notification"
         app:actionLayout="@layout/badge_counter"
