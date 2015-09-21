@@ -7,7 +7,7 @@ A simple library for show a badge counter in action menu.
 How to use
 ----------
 ```groovy
-compile 'com.github.juanlabrador:badgecounter:1.0.1@aar'
+compile 'com.github.juanlabrador:badgecounter:1.0.2@aar'
 ```
 menu.xml
 --------
@@ -74,8 +74,9 @@ Remember the specific sizes for these types of icons, you can use <https://roman
 
 Log
 ----
-v1.0.1
+v1.0.2
 - Adjust in xml
+
 v1.0
 - TextColor in badge is just white
 - Change background badge color
